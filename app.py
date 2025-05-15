@@ -256,4 +256,4 @@ if st.button("🔎 Recommend"):
 
 # ------------------------- Footer -------------------------
 st.markdown("---")
-st.markdown("Created with ❤️ using Streamlit")
+st.markdown("Created with using Streamlit")
