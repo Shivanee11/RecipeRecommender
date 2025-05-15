@@ -1,6 +1,11 @@
 # 🍽️ Recipe Recommender System
 
 This project recommends recipes based on a user’s input using Python, TF-IDF, and Cosine Similarity from NLP.
+## 🖼️ App Preview
+
+![App Screenshot](screenshots/Screenshot 2025-05-15 090444.png)
+![App Screenshot](screenshots/Screenshot 2025-05-15 090543.png)
+
 
 ## 🚀 Features
 - Recommend recipes similar to user input
