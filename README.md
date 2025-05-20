@@ -23,19 +23,7 @@ This project recommends recipes based on a user’s input using Python, TF-IDF, 
 - recommender.py – the script that recommends recipes
 - README.md – this file
 
-## 📦 Run it locally
-1. Clone the repository:
-   git clone https://github.com/Shivanee11/RecipeRecommender.git
-
-2. Go to the project folder:
-   cd RecipeRecommender
-
-3. Install required packages:
-   pip install -r requirements.txt
-
-4. Run the recommender script:
-   python recommender.py
-
-## 👩‍💻 Author
-Shivanee Rao – B.Tech at KIIT | Frontend Developer  
-GitHub: https://github.com/Shivanee11
+👩‍💻 **Shivanee Rao**  
+🎓 B.Tech CSE Student at KIIT University, Bhubaneswar (6th Semester)  
+💡 Passionate about building intuitive web applications and diving deep into data analytics  
+🌐 GitHub: https://github.com/Shivanee11
